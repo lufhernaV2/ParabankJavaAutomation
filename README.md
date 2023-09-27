@@ -7,4 +7,4 @@ When you access a bank account online, what do you need to do? This automation p
 - Applying for a loan
 - Paying a bill
 
-If you check out the Objects package you'll see how the files are divided by different user processes. And within the Test Scenario they all come together to test the flows
+If you check out the Objects (src/test/java) package you'll see how the files are divided by different user processes. And within the Test Scenario they all come together to test the flows
